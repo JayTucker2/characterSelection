@@ -6,7 +6,6 @@
 //
 
 import UIKit
-//does this work
 class ViewController: UIViewController {
 var tester = 5
     @IBOutlet weak var image: UIImageView!
@@ -14,6 +13,7 @@ var tester = 5
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
 
 
 }
