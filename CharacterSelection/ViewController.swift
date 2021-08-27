@@ -8,7 +8,7 @@
 import UIKit
 //does this work
 class ViewController: UIViewController {
-
+var tester = 5
     @IBOutlet weak var image: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
